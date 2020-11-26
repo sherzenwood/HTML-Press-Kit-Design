@@ -1,0 +1,45 @@
+<h1 style="color: #156dad; text-align: center;"> SoundCastle </h1>
+
+<body>
+
+<p style="text-align: center;"> <em> Booking Agency </em> </p>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="soundcastlelogo.jpeg" alt="soundcastle logo" width="200" height="200" />
+
+<h2 style="text-align: center;"> What We Do </h2>
+
+<p style="text-align: center;"> Our mission at SoundCastle is to alleviate hassle for artists, venues and producers throughout the music industry by offering <br> services that maximise profit and creative freedom with minimal effort. </p>
+
+<h3 style="text-align: center;"> Video </h3>
+
+<style>
+video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<video width="420" height="315" controls>
+  <source src="rattleandsmoke.mp4" type="video/mp4">
+</video>
+
+<h1 style="text-align: center;"> Important Dates </h1>
+
+<h2 style="text-align: center;"> Contact </h2>
+
+<ul style="text-align: center;">
+  <li> Email: a.sherwoodmusic@gmail.com </li>
+  <li> Mobile: 0400145132 </li>
+</ul>
+
+</body>
+
